@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>411359499855-lc0b6odq37vv28cnmb8h6mahop27pecg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.411359499855-lc0b6odq37vv28cnmb8h6mahop27pecg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNGWkbJOALwv4dONMbykj6GiM9kyTumac</string>
+	<key>GCM_SENDER_ID</key>
+	<string>411359499855</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.wtb</string>
+	<key>PROJECT_ID</key>
+	<string>wtbapp-2fb04</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wtbapp-2fb04.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:411359499855:ios:dab819bb86a4de44a07c3a</string>
+	<key>DATABASE_URL</key>
+	<string>https://wtbapp-2fb04.firebaseio.com</string>
+</dict>
+</plist>
